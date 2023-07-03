@@ -10,4 +10,3 @@ function validInput() {
     inputValue.classList.remove("valid");
   }
 }
-console.dir(inputValue);
